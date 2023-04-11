@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Los cazadores del rey",
+        "price": 460,
+        "thumbnail": "wwww.findesilgo.com.uy",
+        "id": 1
+    },
+    {
+        "title": "La camara oculta",
+        "price": 390,
+        "thumbnail": "wwww.findesilgo.com.uy",
+        "id": 2
+    },
+    {
+        "title": "Los clanes de fuego",
+        "price": 495,
+        "thumbnail": "wwww.findesilgo.com.uy",
+        "id": 1
+    }
+]
